@@ -106,7 +106,8 @@ The objective is not prediction, but **descriptive and diagnostic analytics** to
 
 ---
 ### Dashboard
-dashboard.pdf
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/c2726271-5eea-437f-a0e4-f5811023491e" />
+
 
 
 ## **Next Steps**
