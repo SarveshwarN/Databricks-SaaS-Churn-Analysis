@@ -1,4 +1,4 @@
-# **Databricks SaaS Churn Analysis (PySpark + Spark SQL + Power BI)**
+# **Databricks SaaS Churn Analysis (PySpark + Spark SQL )**
 
 ---
 
